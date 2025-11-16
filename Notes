@@ -1,0 +1,18 @@
+mongodb setup
+- create a free cluster by login to the mongodb from google with free tier
+url connectionstring
+mongodb+srv://euron_nkv:<db_password>@euron.usryjgk.mongodb.net/?appName=euron
+b294Nb4CbAHbUoqx
+
+create new user with admin role 
+nvnkumar/naveen12345
+
+collection: euron_collection
+databse: euron
+
+mongodb+srv://nvnkumar:naveen12345@euron.usryjgk.mongodb.net/?appName=euron
+
+async function means:
+it creates Non blocking function, so thats other can call the same function, and this call does not wait for the response.
+
+await
